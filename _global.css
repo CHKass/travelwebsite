@@ -1,0 +1,13 @@
+/** _Global css Start */
+
+body {
+	font-family:'Roberto', sans-serif;
+	color:#333;
+}
+
+img {
+	max-width:100%;
+	height:auto;
+}
+
+/** _Global css End */
