@@ -1,4 +1,4 @@
-var gulp = require('gulp');
+var gulp = require('gulp'),
 watch = require('gulp-watch'),
 postcss = require('gulp-postcss'),
 autoprefixer = require('autoprefixer'),
