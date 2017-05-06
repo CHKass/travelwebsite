@@ -1,27 +1,8 @@
 @import "normalize.css";
+@import "base/-global";
 @import "modules/_large-hero";
 
 $mainBlue:#2f5572;
 
-/** _Global css Start */
-
-body {
-	font-family:'Roberto', sans-serif;
-	color:$mainBlue;
-}
-
-img {
-	max-width:100%;
-	height:auto;
-}
-
-.box {
-	a {
-		display:block;
-		padding:10px;
-	}
-}
-
-/** _Global css End */
 
 
