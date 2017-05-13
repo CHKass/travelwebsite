@@ -17,4 +17,8 @@ img {
 	box-sizing:border-box;
 }
 
+a {
+	color:$mainOrange;
+}
+
 /** _Global css End */
